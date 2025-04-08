@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Random Synapse Studio
+title: Cassandra's Fate
 permalink: /random-synapse/
 weight: 10
 ---
 
-# Random Synapse Studio
+# Cassandra's Fate

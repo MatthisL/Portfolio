@@ -2,7 +2,7 @@
 layout: page
 title: Vyder
 permalink: /vyder/
-weight: 10
+weight: 8
 ---
 
 # Vyder
