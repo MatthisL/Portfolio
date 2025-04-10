@@ -5,7 +5,7 @@ permalink: /random-synapse/
 weight: 10
 ---
 
-<img src="/assets/img/Logotitre-CF.png">
+<img src="{{ '/assets/img/Logotitre-CF.png' | relative_url }}">
 
 ## Introduction
 ---
@@ -222,7 +222,7 @@ At first, the character page was fullscreen:
 
 Thus, I developed a complete system from scratch with UMG tools I had at my disposal, mainly using drag and drop system:
 
-<img src="/assets/img/cf-early-windows.png">
+<img src="{{ '/assets/img/cf-early-windows.png' | relative_url }}">
 
 The objective was to have windows you can drag and drop anywhere, with focus system and draw priority system (where windows draws on top of each other, when clicking on a window you can see behind, you regain the focus on it and it brings it back on top of others).
 
@@ -242,7 +242,7 @@ Battle Encounter Popup (very early and bad quality 😅):
 Further back in time, we changed our plan and wanted to have a window system for the interfaces, you know that one, notably from famous MMORPG!
 
 Items tooltips with statistics comparaison with the one equipped by the character.
-<img src="/assets/img/cf-item-tooltip.png">
+<img src="{{ '/assets/img/cf-item-tooltip.png' | relative_url }}">
 
 
 Since the game was online, I had to replicate things properly.
