@@ -10,6 +10,11 @@ repository          : "matthisl/matthisl.github.io"   # Change to <your-username
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 remote_theme        : yousinix/portfolYOU
 
+# markdown: CommonMarkGhPages
+
+# commonmark:
+#   options: ["UNSAFE", "SMART", "FOOTNOTES"]
+#   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 ### Plugins ###
 plugins:
@@ -74,16 +79,6 @@ analytics:
     tracking_id: your-google-tracking-id
 
 
-### Buy me a coffee ###
-# See https://www.buymeacoffee.com/
-buymeacoffee:
-  enabled: false
-  username: your_username
-  color: "#007bff"
-  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
-  description: "Support me on Buy me a coffee!"
-
-
 ### Defaults for collections ###
 defaults:
   - scope:
@@ -104,3 +99,5 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+
