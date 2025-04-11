@@ -5,11 +5,20 @@
     <div id="container" class="my-2">
       <div id="dummy"></div>
       <div id="element">
-        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
+        <img src="{{ '/assets/img/me.jpg' | relative_url }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
       </div>
     </div>
 
-    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.description }}</p>
+    <div class="wow animated slideInUp" data-wow-delay=".15s">
+      <p class="lead">Welcome !</p>
+      <p class="lead">
+        I'm Matthis Le Texier,<br/>
+        game developer since 2020<br/>
+        and here is my portfolio.
+      </p>
+    </div>
+
+   
 
   </div>
 </div>
