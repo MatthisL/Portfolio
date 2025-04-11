@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Matthis Le Texier
 description         : I'm Matthis Le Texier, game developer since 2020 and here is my portfolio.
-baseurl             : "/Portfolio/"                   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""                   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : "matthisl/matthisl.github.io"   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 remote_theme        : yousinix/portfolYOU
