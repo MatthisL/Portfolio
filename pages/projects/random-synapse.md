@@ -9,7 +9,6 @@ weight: 10
 
 
 # Table of contents
-<!-- TOC -->
 
 - [Table of contents](#table-of-contents)
     - [Introduction](#introduction)
@@ -22,7 +21,6 @@ weight: 10
         - [Gameplay Core](#2-gameplay-core)
         - [Art integration](#3-art-integration)
 
-<!-- /TOC -->
 
 
 ## Introduction
