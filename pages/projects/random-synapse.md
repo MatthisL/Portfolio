@@ -41,7 +41,7 @@ Cassandra's Fate had to be put aside and most of the team had to move on. This i
 {: .text-justify}
 
 *You maybe have noticed that I've used the pronon "we" instead of "they", and this is natural to me as we all were so involved that this was OUR project, even as a freelance.*
-
+{: .text-justify}
 
 ## Why did I join the project?
 ---
